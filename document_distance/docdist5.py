@@ -4,7 +4,7 @@
 # Original version by Ronald L. Rivest on February 14, 2007
 # Revision by Erik D. Demaine on January 31, 2011
 #
-# Usage:
+# Usage: 
 #    docdist5.py filename1 filename2
 #     
 # This program computes the "distance" between two text files
