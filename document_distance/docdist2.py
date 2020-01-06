@@ -3,7 +3,7 @@
 #
 # Original version by Ronald L. Rivest on February 14, 2007
 # Revision by Erik D. Demaine on September 12, 2011
-#
+# 
 # Usage:
 #    docdist2.py filename1 filename2
 #     
